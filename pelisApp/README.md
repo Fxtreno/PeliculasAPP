@@ -1,0 +1,2 @@
+# PelisApp
+Ionic API themoviedb.
